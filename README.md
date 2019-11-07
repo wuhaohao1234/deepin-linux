@@ -12,7 +12,7 @@ deepin系统开发配置
 ### git
 
 `sudo apt-get install git`
-
+https://www.jianshu.com/p/6c8c0ae20ddd
 常用配置文档
 
 (git)[https://github.com/wuhaohao1234/github-]
@@ -37,3 +37,5 @@ depin默认集成vim，无需安装，如需修改配置文件自行百度
 
 ### yarn
 sudo apt-get update && sudo apt-get install yarn
+
+
