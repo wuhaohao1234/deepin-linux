@@ -39,3 +39,4 @@ depin默认集成vim，无需安装，如需修改配置文件自行百度
 sudo apt-get update && sudo apt-get install yarn
 
 
+## mac
