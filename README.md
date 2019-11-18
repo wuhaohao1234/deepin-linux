@@ -1,6 +1,7 @@
 # deepin-linux
 deepin系统开发配置
 
+https://blog.csdn.net/qq_27731689/article/details/93371065
 ## 开发环境搭建
 
 1. git
