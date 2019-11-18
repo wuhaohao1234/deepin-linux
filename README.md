@@ -21,7 +21,7 @@ https://blog.csdn.net/menglinjie/article/details/77145537
 (git)[https://github.com/wuhaohao1234/github-]
 
 ### node
-
+https://blog.csdn.net/weixin_39786582/article/details/85038415
 在node官网上下载对应的源码,解压后
 
 使用ln命令来设置短链接
