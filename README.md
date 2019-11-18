@@ -11,6 +11,8 @@ deepin系统开发配置
 
 ### git
 
+https://blog.csdn.net/menglinjie/article/details/77145537
+
 `sudo apt-get install git`
 (解决linux系统下root权限问题导致输入账户与密码)[https://www.jianshu.com/p/6c8c0ae20ddd]
 常用配置文档
